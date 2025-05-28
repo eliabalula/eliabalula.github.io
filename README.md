@@ -14,4 +14,5 @@ Hello, I'm currently a computer science student at SPU with a passion for solvin
 I usually try to code in the evenings as I have more time during those hours, which is perfect for working through these complex challenges. Whether it's classwork or personal projects, I try to always stay consistent with my learning, as this is a skill that grows with practice and patience. My main experience is C++, but I want to learn new languages to expand my skill set and become a more versatile coder over time.
 
 [View my CS courses](courses.md)
+
 [View my Goals for 2025](goals.md)
