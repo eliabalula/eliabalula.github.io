@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Graduation-3%20%28updated%29.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="profile.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
 
