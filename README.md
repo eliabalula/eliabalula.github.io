@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/Graduation-3 (updated).jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+</p>
+
+
+
 # eliabalula.github.io
 Portfolio and selected projects by Eliab Alula
 
