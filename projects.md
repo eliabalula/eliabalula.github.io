@@ -21,7 +21,7 @@ https://github.com/csc2431-spring2026/lab-0-polynomial-eliabalula
 Developed an interactive C++ typing speed test that measures words per minute, typing accuracy, and completion time using timers and string processing.
 
 ### Preview
-<img src="images/project2.png" width="700">
+<img src="images/typing speed test (1).jpg" width="700">
 
 ### GitHub Repository
 https://github.com/eliabalula/Typing-Speed-Test
@@ -34,7 +34,7 @@ https://github.com/eliabalula/Typing-Speed-Test
 Developed a C++ application to manage and store student records using files.
 
 ### Preview
-<img src="images/project3.png" width="700">
+<img src="images/grade system 2 (1).jpg" width="700">
 
 ### GitHub Repository
 https://github.com/eliabalula/Student-Grade-Management-System
@@ -44,10 +44,10 @@ https://github.com/eliabalula/Student-Grade-Management-System
 ## Project 4 — Task Manager
 
 ### Description
-C++ application that's able to manage tasks with features such as adding, updating, deleting, sorting, and saving records.
+A C++ task management application designed to organize and manage records efficiently, featuring functionality for adding, updating, deleting, sorting, and saving tasks.
 
 ### Preview
-<img src="images/project4.png" width="700">
+<img src="images/Task manager (1).jpg" width="700">
 
 ### GitHub Repository
 https://github.com/eliabalula/Student-Grade-Management-System
