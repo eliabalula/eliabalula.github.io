@@ -8,7 +8,7 @@
 Built a polynomial class in C++ that supports basic mathematical operations using dynamic memory and structured programming.
 
 ### Preview
-<img src="multiply class (1).jpg" width="700">
+<img src="images/multiply class (1).jpg" width="700">
 
 ### GitHub Repository
 https://github.com/csc2431-spring2026/lab-0-polynomial-eliabalula
