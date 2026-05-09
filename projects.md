@@ -50,4 +50,4 @@ A C++ task management application designed to organize and manage records effici
 <img src="images/Task manager (1).jpg" width="700">
 
 ### GitHub Repository
-https://github.com/eliabalula/Student-Grade-Management-System
+https://github.com/eliabalula/Task-Manager-Application
