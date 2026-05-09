@@ -16,3 +16,5 @@ I usually spend time coding in the evenings since I tend to have more free time 
 [View my CS courses](courses.md)
 
 [View my Goals for 2026](goals.md)
+
+[View my Projects](projects.md)
