@@ -9,9 +9,9 @@
 Portfolio and selected projects by Eliab Alula
 
 # About me
-Hello, I'm currently a computer science student at SPU with a passion for solving problems through code. I got into programming because I enjoyed the idea of using creativity to build things from scratch and bring them to life with logic. While I struggled at first, over time it started to click, and I began to enjoy the process of learning, solving challenges, and seeing real progress as I created new projects.
+Hello, I’m currently a Computer Science student at SPU with a strong interest in problem-solving and software development. I originally became interested in programming because I liked the idea of combining creativity with logic to build things from the ground up. At first, learning to code was challenging, but over time, everything started to make more sense, and I began to really enjoy the process. Seeing my progress through projects and overcoming difficult problems motivated me to keep improving my skills and continue expanding my knowledge as a developer.
 
-I usually try to code in the evenings as I have more time during those hours, which is perfect for working through these complex challenges. Whether it's classwork or personal projects, I try to always stay consistent with my learning, as this is a skill that grows with practice and patience. My main experience is C++, but I want to learn new languages to expand my skill set and become a more versatile coder over time.
+I usually spend time coding in the evenings since I tend to have more free time during those hours, which gives me a good opportunity to focus on more challenging problems and assignments. Whether I’m working on class projects or practicing on my own, I try to stay consistent with learning because I know programming is a skill that improves through continuous practice. Most of my experience so far has been with C++, where I’ve built a strong foundation in programming concepts. I also have some slight experience with Python and Java, and am currently continuing to expand my knowledge in both languages. In the future, I hope to continue improving my skills and gaining experience in different areas of software development.
 
 [View my CS courses](courses.md)
 
