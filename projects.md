@@ -15,39 +15,39 @@ https://github.com/csc2431-spring2026/lab-0-polynomial-eliabalula
 
 ---
 
-## Project 2 — [Project Name]
+## Project 2 — Typing Speed Test
 
 ### Description
-Write a short overview of the project here.
+Developed an interactive C++ typing speed test that measures words per minute, typing accuracy, and completion time using timers and string processing.
 
 ### Preview
 <img src="images/project2.png" width="700">
 
 ### GitHub Repository
-[Insert GitHub Link Here]
+https://github.com/eliabalula/Typing-Speed-Test
 
 ---
 
-## Project 3 — [Project Name]
+## Project 3 — Student Grade Management System
 
 ### Description
-Write a short overview of the project here.
+Developed a C++ application to manage and store student records using files.
 
 ### Preview
 <img src="images/project3.png" width="700">
 
 ### GitHub Repository
-[Insert GitHub Link Here]
+https://github.com/eliabalula/Student-Grade-Management-System
 
 ---
 
-## Project 4 — [Project Name]
+## Project 4 — Task Manager
 
 ### Description
-Write a short overview of the project here.
+C++ application that's able to manage tasks with features such as adding, updating, deleting, sorting, and saving records.
 
 ### Preview
 <img src="images/project4.png" width="700">
 
 ### GitHub Repository
-[Insert GitHub Link Here]
+https://github.com/eliabalula/Student-Grade-Management-System
