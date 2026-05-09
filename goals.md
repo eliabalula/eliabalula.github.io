@@ -1,6 +1,7 @@
-# Goals for This Year (2025)
+# Goals for This Year (2026)
 
-- Master current core concepts and explore more advanced topics
-- Develop a small personal game to gain confidence and apply skills beyond class
-- Learn a second language, such as Python or JavaScript
-- Stay consistent with practice and being efficent with my learning
+- Continue to strengthen my understanding of data structures and algorithms
+- Build larger and more polished personal projects that demonstrate a deeper understanding of software development
+- Improve my ability to write clean and well-documented code
+- Keep improving with other languages such as Python and Java
+- Continue growing as a developer by adapting to new technologies and concepts being used in the industry
